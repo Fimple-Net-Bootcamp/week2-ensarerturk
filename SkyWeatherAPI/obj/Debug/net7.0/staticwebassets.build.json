@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FOtJJAnXqAZTqqRW2OjG/Niavht9I8E9aHfyZ38+mS0=",
+  "Source": "SkyWeatherAPI",
+  "BasePath": "_content/SkyWeatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
